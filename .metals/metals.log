@@ -256,3 +256,9 @@ WARNING: Unmatched cancel notification for request id 1914
 2024.08.05 22:12:54 INFO  time: compiled Scala-Tutorial-07_f4dd477a3a in 0.25s
 Aug 05, 2024 10:21:11 PM scala.meta.internal.pc.CompilerAccess handleError
 SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USER\Downloads\SCS 2204 Functional Pragramming Practicals\Scala-Tutorial-07\.metals\.reports\metals-full\2024-08-05\r_compiler-error_(Scala-Tutorial-07_f4dd477a3a)_22-21-11-341.md
+Aug 05, 2024 10:47:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2914
+2024.08.05 22:59:37 INFO  Shutting down server
+2024.08.05 22:59:37 INFO  shutting down Metals
+2024.08.05 22:59:37 INFO  Shut down connection with build server.
+2024.08.05 22:59:37 INFO  Exiting server
